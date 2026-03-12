@@ -157,7 +157,7 @@ A 1–2 minute demo video is available demonstrating:
 https://drive.google.com/file/d/1xVCogcFJ4tlleqPf2O9CbudOxvr86fhC/view?usp=drive_link
 
 ## Author
-**[Deepak Khamkar]**  
-Email: [khamkard09@gmail.com]  
+**Deepak Khamkar**  
+Email: khamkard09@gmail.com  
 Phone: +91 77450 47843  
 LinkedIn: https://www.linkedin.com/in/deepak-khamkar130903

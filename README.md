@@ -153,8 +153,10 @@ A 1–2 minute demo video is available demonstrating:
 - Creating a new student profile.
 - Seamless navigation from Lessons to Session Details.
 
-## Author
+🎥 Watch the demo here: 
+https://drive.google.com/file/d/1xVCogcFJ4tlleqPf2O9CbudOxvr86fhC/view?usp=drive_link
 
+## Author
 **[Deepak Khamkar]**  
 Email: [khamkard09@gmail.com]  
 Phone: +91 77450 47843  
